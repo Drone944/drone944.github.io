@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Manas Varma Portflio</title>
+    <link>https://drone944.github.io/posts/</link>
+    <description>Recent content in Posts on Manas Varma Portflio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Sep 2023 15:14:32 +0530</lastBuildDate><atom:link href="https://drone944.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created this website with Hugo</title>
+      <link>https://drone944.github.io/posts/post2/</link>
+      <pubDate>Sat, 30 Sep 2023 15:14:32 +0530</pubDate>
+      
+      <guid>https://drone944.github.io/posts/post2/</guid>
+      <description>I followed this youtube tutorial (https://youtu.be/LIFvgrRxdt4?si=zdZ7nkT4w2id8c97). This tutorial is really simple and explains it in the simplest way. But dtill it took a lot of time and trial and error for me to get it done.
+.</description>
+    </item>
+    
+    <item>
+      <title>Manas Varma K</title>
+      <link>https://drone944.github.io/posts/post1/</link>
+      <pubDate>Sat, 30 Sep 2023 15:02:30 +0530</pubDate>
+      
+      <guid>https://drone944.github.io/posts/post1/</guid>
+      <description>I am Manas Varma K, currently an S1 B.Tech CSE-AI students in Amrita Vishwa Vidhyapeetham. I want to be a developer, explore the computer and tech world. I want to try all the new tech products, learn about them and their working. I also like to travel. In future I want to travel to many countries and also try all the different types of food. My hobbies include gaming, playing cricket, football and badminton.</description>
+    </item>
+    
+  </channel>
+</rss>
